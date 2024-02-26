@@ -1,4 +1,4 @@
-# statsmodels
+# Statsmodels
 
 Statsmodels es una biblioteca de Python que proporciona clases y funciones para la estimación de muchos modelos estadísticos diferentes, así como para realizar pruebas estadísticas y exploración de datos. Algunas de las características principales de Statsmodels incluyen:
 
